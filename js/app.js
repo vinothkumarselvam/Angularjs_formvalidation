@@ -1,0 +1,1 @@
+var app = angular.module('angularModule',[]); // Main module name is angularModule
